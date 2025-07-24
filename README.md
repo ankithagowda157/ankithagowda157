@@ -1,4 +1,6 @@
 ## Hi there 👋
+hi everyone
+how are you
 
 <!--
 **ankithagowda157/ankithagowda157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
